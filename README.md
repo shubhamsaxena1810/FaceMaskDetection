@@ -8,11 +8,11 @@ The square box on the face of the user changes its colour on the **basis of accu
 
 The variations being:-
 
-Accuracy | Colour | Message
+Accuracy | Colour | Message | Image
 ---------|--------|--------
-1.**a<50%** | Red | *Wear the mask*
-2.**50<=a<99%** | Green | *Wear the mask properly*
-3.**99% >= a** | Green | *The Mask is Proper*
+1.**a<50%** | Red | *Wear the mask* | ![capture (2)](https://user-images.githubusercontent.com/61288929/115899391-53936280-a47c-11eb-817b-cc2bc7a58e79.jpg)
+2.**50<=a<99%** | Green | *Wear the mask properly* | ![capture2](https://user-images.githubusercontent.com/61288929/115899413-57bf8000-a47c-11eb-94bc-e5cf222f9ab1.jpg)
+3.**99% >= a** | Green | *The Mask is Proper* | ![capture3](https://user-images.githubusercontent.com/61288929/115899429-5d1cca80-a47c-11eb-9a1c-32068d1a63a7.jpg)
 - - - -
 
 The Model is trained on a dataset from kaggle:-
