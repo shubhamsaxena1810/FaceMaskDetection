@@ -11,7 +11,7 @@ The variations being:-
 Accuracy | Colour | Message
 ---------|--------|--------
 1.**a<50%** | Red | *Wear the mask*
-2.**50<=a<99%** | Red | *Wear the mask properly*
+2.**50<=a<99%** | Green | *Wear the mask properly*
 3.**99% >= a** | Green | *The Mask is Proper*
 - - - -
 
@@ -36,7 +36,7 @@ Technologies Used:-
 Basic Data Augmentation techniques like rotation, zoom, height shift, width shift, shear range and horizontal flip were used.
 **The Training Accuracy touches 99%**
 
-Graph plot for Trainging And Validation loss and accuracy
+Graph plot for Training And Validation loss and accuracy
 ![plot](https://user-images.githubusercontent.com/61288929/115892549-e16b4f80-a474-11eb-9e58-bcf18680de6b.png)
 
 Thank you..
